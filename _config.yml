@@ -12,7 +12,7 @@ google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: "sunghaeJoung.github.io/"
+url: "https://sunghaeJoung.github.io/"
 author: "sunghaeJoung"
 
 # Disqus config
