@@ -7,12 +7,12 @@ highlighter: rouge
 logo: false
 paginate: 15
 baseurl: "/sunghaeJoung"
-domain_name: "https://sunghaeJoung.github.io/"
+domain_name: "sunghaeJoung.github.io/"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: "https://sunghaeJoung.github.io/"
+url: "sunghaeJoung.github.io/"
 author: "sunghaeJoung"
 
 # Disqus config
