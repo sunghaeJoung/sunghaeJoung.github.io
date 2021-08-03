@@ -6,13 +6,13 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: "/sunghaejoung"
-domain_name: "https://sunghaejoung.github.io/"
+baseurl: "/sunghaeJoung"
+domain_name: "https://sunghaeJoung.github.io/"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: "https://sunghaejoung.github.io/"
+url: "https://sunghaeJoung.github.io/"
 author: "sunghaeJoung"
 
 # Disqus config
