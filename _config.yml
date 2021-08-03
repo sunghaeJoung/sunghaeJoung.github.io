@@ -6,8 +6,8 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: "/sunghaejoung"
-domain_name: "sunghaejoung.github.io/"
+baseurl: "/sunghaeJoung"
+domain_name: "sunghaeJoung.github.io/"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
