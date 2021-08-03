@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "성장하는 개발자 썽로그, since 2021.08"
+name: sunghae blog
+description: since 2021.08
+meta_description: "sunghae blog"
 
 markdown: kramdown
 highlighter: rouge
